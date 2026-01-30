@@ -1,0 +1,29 @@
+Part_ID,Part_Name‬,Manufacturer‬,Quantity‬,Supporting Docs / Datasheet for the‬ ‭components used‬
+HW001‬,Jetson Nano 4GB,Nvidia,1,https://thinkrobotics.com/products/advanced-thinkrobotics-nvidia-jetson-nano-development-kit-b01-4gb-online
+HW002,Arduino Mega 2560,Arduino,2,https://robu.in/product/original-arduino-mega-2560-atmega2560-mcu-rev3/
+HW003,RPLidar A1 ,‭Slamtec,1,https://robu.in/product/rp-lidar-a1m8-360-degrees-laser-range-finder/
+HW004,IMU Fusion Breakout – BNO085,Adafruit,1,https://robu.in/product/adafruit-9-dof-orientation-fusion-bno080-stemma-qt/
+HW005,Cytron MDD10A Dual Channel,Cytron,2,https://robu.in/product/dual-channel-enhanced-13amp-dc-motor-driver-30a-peak/
+HW006,Arducam 12MP USB camera,Arducam,1,https://robu.in/product/arduam-12mp-usb-camera-module-with-m12-lens/
+HW007,AGARO USB Extender cable 2m,Agaro,1,https://www.amazon.in/AGARO-Extender-Extension-High-Speed-Compatible/dp/B0B7K3KWS2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1WYWER0W24N8S
+HW008,EasyMech 100mm Modified Heavy Duty Disc Wheel,EasyMech,1,https://robu.in/product/modified-heavy-dutyhd-disc-wheel-100mm-dia-4pc-grey-color/
+HW009,Pro-Range 294.3 N-cm 100 RPM 12V Planetary Gear DC Motor,Pro-Range,4,https://robu.in/product/pro-range-planetary-gear-dc-motor-12v-100-rpm-294-3-n-cm-pgm45775-71-2k-with-encoder-me-7757ppr/
+HW010,EasyMech ID-10mm Motor Coupling Hub ,EasyMech,4,https://robu.in/product/motor-coupling-hub-10mm-internal-dia-id/
+HW011,EasyMech Universal Bracket,EasyMech,1,https://robu.in/product/universal-bracket-ig42ig45-tauren-motor-straight/
+HW012,EasyMech 2000 mm 20X40 4 V Slot Aluminium Extrusion Profile,EasyMech,1,https://robu.in/product/easymech-2000-mm-20x40-4-v-slot-aluminium-extrusion-profile-black/
+HW013,EasyMech 1000 mm 20X20 4 T Slot Aluminium Extrusion Profile,EasyMech,8,https://robu.in/product/easymech-20x20-t-slot-aluminium-extrusion-profile-1000-mm/
+HW014,EasyMech M4x8mm HT Socket Button,EasyMech,100,https://robu.in/product/easymech-ht-socket-button-head-cap-allen-bolt-m4-x-8-25-pcs/
+HW015,EasyMech M4 MS T Nut Hammer Head For 2020 Series Aluminum Profile,EasyMech,100,https://robu.in/product/easymech-m4-ms-t-nut-hammer-head-for-2020-series-aluminium-extrusion-profile-10-pcs/
+HW016,EasyMech Cast Corner Bracket for 20X20 Aluminium Profile,EasyMech,30,https://robu.in/product/easymech-cast-corner-bracket-for-20x20-aluminium-profile-silver-4-pcs/
+HW017,Pro-Range NMC 21700 22.2V 20000mAh 3C 6S4P Li-Ion Battery Pack,Pro-Range,1,https://robu.in/product/pro-range-icr-18650-li-ion-20000mah-22-2v-6s8p-protected-battery-pack-3c/
+HW018,24V/12V to 5V 5A Power Module ,Robu,1,https://robu.in/product/24v-12v-to-5v-5a-power-module-dc-dc-xy-3606-power-converter/
+HW019,High voltage 4 Pin Rocker Switch,Robu,1,https://robu.in/product/high-voltage-kcd4-red-220v-16a-dpst-on-off-4-pin-rocker-switch/#tab-specification
+HW020, Jumper Wires ,Robu,100,https://robu.in/product/male-to-male-jumper-wires-40-pin-30cm/
+HW021,High Quality Ultra Flexible 16AWG Silicone Wire (1 unit = 1meter),Robu,10,https://robu.in/product/high-quality-ultra-flexible-16awg-silicone-wire-black/
+HW022,Two Trees TB6600 Stepper Motor Driver,Two Trees,1,https://robu.in/product/tb6600-stepper-motor-driver-controller-4a-942v-ttl-16-micro-step-cnc-1-axis-upgraded-version-425786-stepper-motor/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWdvlriTd4d3gvNB5ZFNphRzb&gclid=Cj0KCQiAq7HIBhDoARIsAOATDxDqon_JaKlxrMNbFOgFuRK6EBZpf9qgLZdW1PQPJdlAujRElL1cIbAaAn05EALw_wcB
+HW023,NEMA23 5Kg-cm Stepper Motor,Nema,1,https://robu.in/product/57hm41-2804-nema23-5kg-cm-stepper-motor-round-type/#tab-specification
+HW024,Two Trees Aluminum GT2 Timing Pulley,Two Trees,1,https://robu.in/product/aluminum-gt2-timing-pulley-6mm-belt-20-tooth-8mm-bore-2pcs/
+HW025,10M GT2 Width 6mm Black Open Timing Belt,Robu,1,https://robu.in/product/10m-gt2-width-6mm-black-open-timing-belt-for-3d-printer/
+HW026,V Wheel with Plate for 2020 Aluminum Profile 3D Printer Parts ,Befenybay,1,https://www.amazon.in/Befenybay-Aluminum-Profile-Printer-Kossel/dp/B08DJ6Y3WJ/261-5506410-1858961?pd_rd_w=9ENdY&content-id=amzn1.sym.ccf6529f-31bd-4606-ad8e-481144df5d59&pf_rd_p=ccf6529f-31bd-4606-ad8e-481144df5d59&pf_rd_r=J2T1VC561Y36MJB79Y1S&pd_rd_wg=T0udo&pd_rd_r=19925967-d78c-4d05-9622-d67b9b034d49&pd_rd_i=B08DJ6Y3WJ&psc=1
+HW027,Two Trees Aluminum GT2 Timing Idler Pulley For 6mm Belt ,Two Trees,1,https://robu.in/product/aluminum-gt2-timing-idler-pulley-6mm-belt-20-tooth-5mm-bore-2pcs/
+HW028, Roller Lever Micro Switch,Robu,2,https://robu.in/product/kw4-z5f100-spdt-roller-lever-micro-switch-5a1n/
