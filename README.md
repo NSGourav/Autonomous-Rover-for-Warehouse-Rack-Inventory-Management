@@ -10,7 +10,7 @@ Designed and built an Autonomous Mobile Robot (AMR) for warehouse inventory mana
 - Real-time inventory data logging
 - The system integrates SLAM, ROS2 navigation, differential drive motion, and a belt-driven vertical lift mechanism into a unified workflow.
 
-Official Problem Statement PDF: [Inter IIT Tech Meet 14.0 Problem Statement](https://grabcad.com/yourlink)
+Official Problem Statement PDF: [Inter IIT Tech Meet 14.0 Problem Statement](https://drive.google.com/file/d/12ET33sytQ0gMRCpAS6UsOaBk7EDwTndu/view?usp=sharing)
 
 ## System Architecture
 
