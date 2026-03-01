@@ -29,6 +29,8 @@ Two-layer architecture:
 - OpenCV-based QR detection
 - Inventory data logging
 
+![System Architecture](./assets/system_architecture.png)
+
 ## Launch Files
 
 ## Results 
