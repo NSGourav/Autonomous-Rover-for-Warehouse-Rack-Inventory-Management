@@ -44,6 +44,8 @@ Two-layer architecture:
 
 ## Demonstration
 🎥 Vertical Scanning: [Watch Here](https://drive.google.com/file/d/1KGMI8gQ0bd0-lW-TCqL113q4YaDr5LGW/view?usp=sharing)
+
 🎥 Hardware Demo: [Watch Here](https://drive.google.com/file/d/1Vsa3Wl3Hw1EQ6sBA5-eVvMxNQFey-LZ9/view?usp=sharing)
+
 🛠 CAD Model (Full Assembly): [View on GrabCAD](https://grabcad.com/yourlink)
 
